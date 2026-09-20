@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="btn_number">#FFFFFF</color>
-    <color name="btn_function">#E8EAF6</color>
-    <color name="btn_equal">#FF9800</color>
-    <color name="btn_clear">#EF5350</color>
-    <color name="display_bg">#FFFFFF</color>
-    <color name="app_bg">#FAFAFA</color>
-</resources>
